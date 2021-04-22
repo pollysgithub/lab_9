@@ -1,0 +1,44 @@
+body {
+  font-family: Roboto, sans-serif;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+.header {
+  background-color: #B0E0E6;
+  padding-top: 10px;
+  font-size: 22.29px;
+}
+.header-logo {
+  font-size: 32px;
+}
+.header-entrance {
+  vertical-align: middle;
+}
+.header-profile-logo {
+  margin-left: 10px;
+  width: 25px;
+  height: 25px;
+}
+.content {
+  background-color: #B0E0E6;
+}
+.content-bcg {
+  position: relative;
+  background-position: 0 32px;
+  width: 1100px;
+  height: 720px;
+}
+.content-text {
+  position: absolute;
+  width: 490.62px;
+  height: 172px;
+  top: 150px;
+  left: 220px;
+  font-size: 30px;
+  font-weight: 800;
+}
+.footer {
+  background-color: #808080;
+}
